@@ -4,6 +4,9 @@ Created on Mon Sep  4 23:35:19 2023
 
 @author: rcorr
 """
+### This library is not mine credits: 
+###rjtavares
+
 
 from matplotlib import pyplot as plt
 from matplotlib.patches import Ellipse
